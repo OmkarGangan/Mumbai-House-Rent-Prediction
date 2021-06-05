@@ -13,6 +13,6 @@ Furnishing: Type of Furnishing \
 Bathrooms: Total Number of Bathrooms \
 Balcony: Total Number of Balcony available \
 Parking: Total Number of Parknig available \
-Carpet_area(sq.ft): Carpet area in sq.ft. \
+Carpet_area(sq.ft): Carpet area in sq.ft.
 
 This data set is only for Educational Purpose.
